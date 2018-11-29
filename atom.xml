@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wangfuxiang</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.wangfx.cn/"/>
+  <updated>2018-11-29T12:38:50.505Z</updated>
+  <id>https://blog.wangfx.cn/</id>
+  
+  <author>
+    <name>wangfuxiang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>android</title>
+    <link href="https://blog.wangfx.cn/2018/11/29/android/"/>
+    <id>https://blog.wangfx.cn/2018/11/29/android/</id>
+    <published>2018-11-29T11:40:05.000Z</published>
+    <updated>2018-11-29T12:38:50.505Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;121212&quot;&gt;&lt;a href=&quot;#121212&quot; class=&quot;headerlink&quot; title=&quot;121212&quot;&gt;&lt;/a&gt;121212&lt;/h2&gt;&lt;h3 id=&quot;1212121www&quot;&gt;&lt;a href=&quot;#1212121www&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="https://blog.wangfx.cn/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="https://blog.wangfx.cn/tags/PS3/"/>
+    
+      <category term="Games" scheme="https://blog.wangfx.cn/tags/Games/"/>
+    
+  </entry>
+  
+</feed>
